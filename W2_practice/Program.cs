@@ -507,6 +507,7 @@ class Program
         //Console.WriteLine($"獎金為{P}");
         //Console.ReadKey();
 
+        //aa
 
 
     }
